@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(210, 149, 69);
+    background-image: url("Images/still-beach-sd.jpg");
+    background-position: left;
+}
+img{
+        width: 20%;
+        float: left;
+        margin: 30px 10px 0px;
+        border: 15px solid brown;
+}
+img:hover{
+    width: 30%;
+}
+div.container-fluid{
+    background-color: rgb(210, 149, 69);
+}
+
+div.container{
+    margin-top: 10px;
+    padding-top: 40px;
+    padding-right: 20px;
+    font-style: italic;
+    font-size: large;
+    text-align: center;
+    border: 15px solid brown ;
+    color: white;
+}
+a.nav-link{
+    color: whitesmoke;   
+}
+a.nav-link:hover{
+    color: yellow;    
+}
+div.icon{
+    padding-left: 165px;
+
+}
+div.icon img{
+    width: 50px;
+    align-content: center;
+    border: 5px solid brown;
+    position: relative;
+}
+div.icon img:hover{
+    width: 60px;
+}
+div.ProjectDetail{
+    color: white;
+    border: 20px dashed  rgb(210, 149, 69);
+    margin-top: 50px;
+    padding: 20px;
+}
+p,h3{
+   text-indent: 50px; 
+   text-align: center;
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+
+
